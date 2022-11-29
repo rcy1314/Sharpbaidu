@@ -1,0 +1,8 @@
+BaiduConfig:
+  ClientID: 'gN8KCUHLo7lMcbeG1FpDWqyPuEsX4yax'
+  ClientSecret: '2YVWgwrZRK3S3bGecqEp60b8Wtkqt9Y7'
+  DownloadPath: /群组分享【勿删】
+TelegramConfig:
+  BotToken: '5921444302:AAHxSG2UKrn21J4QrH9SupHd4rBizJ5SwJ8'
+  ChatID: '877702922'
+  TransFinishAddtionDesc: '已转存'
